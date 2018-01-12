@@ -1,0 +1,7 @@
+[0m[[31merror[0m] [0m/home/fliu67/OpenTSDBTest/src/main/scala/SparkApp.scala:9: not found: object scalaj[0m
+[0m[[31merror[0m] [0mimport scalaj.http.Http[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0m/home/fliu67/OpenTSDBTest/src/main/scala/SparkApp.scala:103: not found: value scalaj[0m
+[0m[[31merror[0m] [0m    val request = scalaj.http.Http("http://mimosa40.cc.gatech.edu:4242/api/query?start=1477958400&end=1477959400&m=max:1m-max-none:energy.salted").asString[0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0mtwo errors found[0m

@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0mPackaging /home/fliu67/OpenTSDBTest/target/scala-2.10/opentsdb-test_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SparkApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/fliu67/OpenTSDBTest/target/scala-2.10/classes/SparkApp$.class[0m
+[0m[[0mdebug[0m] [0m	SparkApp$$anonfun$phase2calcs$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/fliu67/OpenTSDBTest/target/scala-2.10/classes/SparkApp$$anonfun$phase2calcs$1.class[0m
+[0m[[0mdebug[0m] [0m	SparkApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/fliu67/OpenTSDBTest/target/scala-2.10/classes/SparkApp.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
