@@ -597,6 +597,6 @@ if __name__ == '__main__':
             file_name = argv.split('.')[0]
             source_file = open(argv, 'r')
             content = source_file.read()
-        elif opt == '-l':
+        elif opt == '-o':
             output()
 
